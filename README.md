@@ -1,3 +1,8 @@
+# This Repository is now Archived ⚠️🚧
+
+## While, I do like making icon themes. I have decided to quit the Linux space altogether. I hope you don't mind my decision. Feel free to fork anytime. 
+
+
 # MoreWaita Plus
 What is this? MoreWaita with more icons for my **personal** use
 I am thinking of upstreaming it, but my stuff are messy so idk
